@@ -1,0 +1,18 @@
+body
+{
+background-color: #000034;
+}
+.content
+{
+    background-color: #000034;
+    color: #000034;
+    text-align: center; 
+    margin: 5%;
+    padding:5%;
+    font-family: cursive;
+    border-radius:25px;
+    background-image: url('https://us.123rf.com/450wm/amarosy/amarosy1608/amarosy160800017/60926533-its-a-boy-blue-theme-baby-shower-or-nursery-background-with-decorated-borders-on-pale-blue-wood-back.jpg?ver=6');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
